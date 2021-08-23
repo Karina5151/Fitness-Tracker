@@ -29,7 +29,7 @@ npm i
 ## Usage
 Users can enter detailed exercise information to create historical workout logs to reference. 
 
-Launch Github deployed web application [here](https://karina5151.github.io/React-Portfolio/)
+Launch Github deployed web application [here](https://fierce-hamlet-39609.herokuapp.com/)
 
 ![Web App Image 1](./public/assets/images/fitnessScreenshot1.png)
 ![Web App Image 2](./public/assets/images/fitnessScreenshot2.png)
