@@ -14,7 +14,7 @@
   
 ## Installation
 To run locally:
-* Fork the https://github.com/Karina5151/E-Commerce-Back-End repo.
+* Fork the https://github.com/Karina5151/Fitness-Tracker repo.
 * Clone your forked repo to VS Code on your computer.
 * Open entire parent folder of the project in your terminal.
 * Install the node dependencies by entering in the terminal:
